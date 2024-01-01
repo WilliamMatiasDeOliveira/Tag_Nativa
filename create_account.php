@@ -138,6 +138,8 @@ require_once 'classes.php';
             <br><br>
             <input type="submit" name='cadastrar' value='cadastrar' class="btn btn-primary form-control">
 
+            <h3> Use a Chave de Segurança  123 </h3>
+
         </form>
 
     </div>
